@@ -16,7 +16,7 @@
   - [Categories](#categories)
       - [More Template](#github-actions-)
 
-## Categories
+## Authors
 
 
 - [Yusu](https://github.com/YusuCalypso)

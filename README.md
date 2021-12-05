@@ -1,6 +1,6 @@
 <h1 align="center">Calypso Team's
 <div align="center">
-<a href="https://discord.gg/dfyCSrVM2s"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
+
 
 <a href="https://discord.com/api/oauth2/authorize?client_id=873293263208087613&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.gg%2FqcCNWYFRqM&response_type=code&scope=bot%20applications.commands%20guilds.join"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Calypso Bot Badge"/></a>
 

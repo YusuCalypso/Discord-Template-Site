@@ -12,9 +12,10 @@
 
 </div>
 
-### Contents:
-  - [Categories](#categories)
-      - [More Template](#github-actions-)
+### How do I get the site code?
+  - Please join the server below in order to get the codes
+
+https://discord.gg/qF2VFGAh2X
 
 ## Authors
 

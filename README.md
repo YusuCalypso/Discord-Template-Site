@@ -31,9 +31,8 @@
 
 ## Contribute
 
-Contributions are always welcome!
-Please read the [contribution guidelines](contributing.md) first.
+Contributions are always welcome !
 
 ## License 
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://th.bing.com/th/id/R.fbcf86373c96f41b6fe1bf9757532da5?rik=ybLKQmOt8zuuYw&riu=http%3a%2f%2forig15.deviantart.net%2f5b95%2ff%2f2016%2f070%2f3%2fb%2fmit_license_logo_by_excaliburzero-d9ur2lg.png&ehk=9PTyRMyHife7t4dtbRaIO1P6lDEsT5ZavUoNeW5R98k%3d&risl=&pid=ImgRaw&r=0)](https://creativecommons.org/publicdomain/zero/1.0/)

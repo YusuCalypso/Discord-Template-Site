@@ -8,7 +8,6 @@
 <a href="https://twitter.com/abhisheknaiidu" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
 <br>
 
-<i>A curated list of awesome Github Profile READMEs</i>
 
 <a href="https://github.com/YusuCalypso"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
 <a href="https://github.com/YusuCalypso"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
@@ -17,9 +16,8 @@
 <a href="https://github.com/YusuCalypso"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
 <a href="https://github.com/YusuCalypso"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
 
-<img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
+<img alt="Awesome GitHub Profile Readme" src="https://images-ext-2.discordapp.net/external/DpWiwcsaW-jf_ESdLAxh55nFSnWaAuI-XkwhaUL257s/https/images-ext-1.discordapp.net/external/oNxEDfTkgK4oj3PzQ3rrIGPa4drkMj3hH6zAqzwgWRw/https/media.discordapp.net/attachments/908934849082064958/908970442340073492/Calypso_2.png"> </img>
 
-<i>Loved the project? Please consider [donating](/) to help it improve!</i>
 
 </div>
 
